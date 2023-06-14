@@ -1,0 +1,8 @@
+p{
+    color: aqua;
+}
+*{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.saludo{
+    border: solid 10px pink;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+    color: pink;
+}
